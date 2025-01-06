@@ -1,5 +1,5 @@
 #include <iostream>
-
+#check Plaindrome
 using namespace std;
 
 int checkPalindrome( char a[] , int n){
